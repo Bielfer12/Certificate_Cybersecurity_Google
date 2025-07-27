@@ -28,7 +28,7 @@ O curso oferece uma introdução prática à área de Cibersegurança, abordando
 
 ## 📁 Estrutura do repositório
 
-## [Link do meu resumo das aulas no Notion:](https://github.com/Bielfer12/Certificate_Cybersecurity_Google/blob/main/Documentação%20do%20curso.txt) 
+- [Link do meu resumo das aulas no Notion](https://github.com/Bielfer12/Certificate_Cybersecurity_Google/blob/main/Documentação%20do%20curso.txt) 
 
 ## 📜 Licença
 
