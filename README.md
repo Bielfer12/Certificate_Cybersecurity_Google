@@ -16,7 +16,7 @@ O curso oferece uma introdução prática à área de Cibersegurança, abordando
 ## 🎓 Progresso
 
 - [x] Curso 1: Fundamentos de Cibersegurança
-- [ ] Curso 2: Mantenha a segurança: Gerenciamento de riscos 
+- [x] Curso 2: Mantenha a segurança: Gerenciamento de riscos 
 - [ ] Curso 3: Conectar e Proteger: Rede e Segurança de Rede
 - [ ] Curso 4: ...
 - [ ] Curso 5: ...
